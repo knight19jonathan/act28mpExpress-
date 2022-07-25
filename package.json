@@ -1,0 +1,25 @@
+{
+  "name": "mini-project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "404 and wildcard routing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knight19jonathan/act28mpExpress-.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/knight19jonathan/act28mpExpress-/issues"
+  },
+  "homepage": "https://github.com/knight19jonathan/act28mpExpress-#readme"
+}
